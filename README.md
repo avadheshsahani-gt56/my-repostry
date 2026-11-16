@@ -118,3 +118,4 @@ These limitations are documented rather than hidden so that the findings are not
 Entry-Level Data Analyst  
 Skills demonstrated: Python, Pandas, PostgreSQL, SQL, Power BI, data cleaning, data analysis, dashboard development, and business insights.
 
+# E
